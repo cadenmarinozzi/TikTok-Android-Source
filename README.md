@@ -1,3 +1,7 @@
+PRE-MESSAGE:
+I DID NOT REVERSE ENGINEER THIS SOURCE CODE, @huaji233333 is the original uploader, I am reuploading it for posterity reasons. 
+
+ORIGINAL README:
 ## TikTok source code
 
 Reverse engineered source code to the android tiktok app.
